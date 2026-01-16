@@ -1,0 +1,4 @@
+plugin: glpi
+glpi_url: http://172.20.69.164/apirest.php
+app_token: "{{ glpi_app_token }}"
+user_token: "{{ glpi_user_token }}"
